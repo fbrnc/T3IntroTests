@@ -1,0 +1,6 @@
+[submodule "Acceptance/lib/Menta"]
+	path = Acceptance/lib/Menta
+	url = git@github.com:fbrnc/Menta.git
+[submodule "Acceptance/lib/php-webdriver"]
+	path = Acceptance/lib/php-webdriver
+	url = git@github.com:fbrnc/php-webdriver.git
